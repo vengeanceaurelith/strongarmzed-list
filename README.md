@@ -2,6 +2,6 @@
 
 
 1. Clone Repo
-2. Upload your itemlist.json and eventlist.json
+2. Upload your StoreItems.json and StoreIncidents.json
 
 

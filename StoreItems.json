@@ -1580,7 +1580,7 @@
 	},
 	{
 		"abr": "hay",
-		"price": 1,
+		"price": 20,
 		"category": "Foods",
 		"defname": "Hay"
 	},
@@ -1712,7 +1712,7 @@
 	},
 	{
 		"abr": "humanmeat",
-		"price": 1,
+		"price": 20,
 		"category": "Meat",
 		"defname": "Meat_Human"
 	},
@@ -1862,7 +1862,7 @@
 	},
 	{
 		"abr": "insectmeat",
-		"price": 1,
+		"price": 20,
 		"category": "Meat",
 		"defname": "Meat_Megaspider"
 	},

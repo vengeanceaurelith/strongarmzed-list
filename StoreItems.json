@@ -2,7 +2,7 @@
 	"items" : [
 	{
 		"abr": "abyssiniancat",
-		"price": 333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AEXP_CatAbyssinian"
 	},
@@ -254,7 +254,7 @@
 	},
 	{
 		"abr": "beagle",
-		"price": 167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AEXP_Beagle"
 	},
@@ -326,7 +326,7 @@
 	},
 	{
 		"abr": "bengalcat",
-		"price": 333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AEXP_CatBengal"
 	},
@@ -446,7 +446,7 @@
 	},
 	{
 		"abr": "boomalope",
-		"price": 833,
+		"price": 1500,
 		"category": "Animal",
 		"defname": "Boomalope"
 	},
@@ -458,7 +458,7 @@
 	},
 	{
 		"abr": "boomrat",
-		"price": 667,
+		"price": 1000,
 		"category": "Animal",
 		"defname": "Boomrat"
 	},
@@ -482,7 +482,7 @@
 	},
 	{
 		"abr": "britishshorthaircat",
-		"price": 333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AEXP_CatBritishShorthair"
 	},
@@ -536,7 +536,7 @@
 	},
 	{
 		"abr": "capybara",
-		"price": 250,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Capybara"
 	},
@@ -578,7 +578,7 @@
 	},
 	{
 		"abr": "cat",
-		"price": 167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Cat"
 	},
@@ -686,7 +686,7 @@
 	},
 	{
 		"abr": "chicken",
-		"price": 83,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Chicken"
 	},
@@ -710,7 +710,7 @@
 	},
 	{
 		"abr": "chihuahua",
-		"price": 550,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AEXP_Chihuahua"
 	},
@@ -722,7 +722,7 @@
 	},
 	{
 		"abr": "chinchilla",
-		"price": 250,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Chinchilla"
 	},
@@ -824,7 +824,7 @@
 	},
 	{
 		"abr": "corgi",
-		"price": 1083,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AEXP_Corgi"
 	},
@@ -1034,7 +1034,7 @@
 	},
 	{
 		"abr": "duck",
-		"price": 100,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AEXP_Duck"
 	},
@@ -1322,7 +1322,7 @@
 	},
 	{
 		"abr": "frenchbulldog",
-		"price": 250,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AEXP_FrenchBulldog"
 	},
@@ -1460,7 +1460,7 @@
 	},
 	{
 		"abr": "goose",
-		"price": 150,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AEXP_Goose"
 	},
@@ -1568,7 +1568,7 @@
 	},
 	{
 		"abr": "hare",
-		"price": 83,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Hare"
 	},
@@ -1700,7 +1700,7 @@
 	},
 	{
 		"abr": "human",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Human"
 	},
@@ -2090,7 +2090,7 @@
 	},
 	{
 		"abr": "mainecoon",
-		"price": 1250,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AEXP_CatMaineCoon"
 	},
@@ -2288,7 +2288,7 @@
 	},
 	{
 		"abr": "munchkincat",
-		"price": 333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AEXP_CatMunchkin"
 	},
@@ -2336,7 +2336,7 @@
 	},
 	{
 		"abr": "norwegianforestcat",
-		"price": 333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AEXP_CatNorwegianForest"
 	},
@@ -2474,7 +2474,7 @@
 	},
 	{
 		"abr": "persiancat",
-		"price": 333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AEXP_CatPersian"
 	},
@@ -2552,7 +2552,7 @@
 	},
 	{
 		"abr": "poodle",
-		"price": 417,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AEXP_Poodle"
 	},
@@ -2672,7 +2672,7 @@
 	},
 	{
 		"abr": "pug",
-		"price": 500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AEXP_Pug"
 	},
@@ -2696,7 +2696,7 @@
 	},
 	{
 		"abr": "raccoon",
-		"price": 167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Raccoon"
 	},
@@ -2708,7 +2708,7 @@
 	},
 	{
 		"abr": "rat",
-		"price": 108,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Rat"
 	},
@@ -2966,7 +2966,7 @@
 	},
 	{
 		"abr": "shih-tzu",
-		"price": 500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AEXP_Shih-Tzu"
 	},
@@ -2990,7 +2990,7 @@
 	},
 	{
 		"abr": "siamesecat",
-		"price": 333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AEXP_CatSiamese"
 	},
@@ -3116,13 +3116,13 @@
 	},
 	{
 		"abr": "snowhare",
-		"price": 83,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Snowhare"
 	},
 	{
 		"abr": "somalicat",
-		"price": 333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AEXP_CatSomali"
 	},
@@ -3146,7 +3146,7 @@
 	},
 	{
 		"abr": "sphynxcat",
-		"price": 333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AEXP_CatSphynx"
 	},
@@ -3170,7 +3170,7 @@
 	},
 	{
 		"abr": "squirrel",
-		"price": 108,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Squirrel"
 	},
@@ -3500,7 +3500,7 @@
 	},
 	{
 		"abr": "welshterrier",
-		"price": 417,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AEXP_WelshTerrier"
 	},
@@ -3584,7 +3584,7 @@
 	},
 	{
 		"abr": "yorkshireterrier",
-		"price": 167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "YorkshireTerrier"
 	},
@@ -3733,5 +3733,5 @@
 		"defname": "LuluBones_Thrumbone"
 	}
 	],
-	"total": 675
+	"total": 685
 }

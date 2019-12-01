@@ -102,8 +102,8 @@
 	},
 	{
 		"abr": "blight",
-		"price": 700,
-		"karmatype": "Bad"
+		"price": 1000,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "refugeechased",
@@ -112,8 +112,8 @@
 	},
 	{
 		"abr": "animaltame",
-		"price": 150,
-		"karmatype": "Good"
+		"price": 550,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "resourcepodcrash",
@@ -141,14 +141,9 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "maninblack",
-		"price": 350,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "madanimal",
 		"price": 200,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "psychicdrone",
@@ -177,8 +172,8 @@
 	},
 	{
 		"abr": "wildman",
-		"price": 300,
-		"karmatype": "Good"
+		"price": 500,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "rarethrumbos",
@@ -218,12 +213,12 @@
 	{
 		"abr": "shippartpoison",
 		"price": 1900,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "shippartpsychic",
 		"price": 2400,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "militaryaid",
@@ -258,12 +253,12 @@
 	{
 		"abr": "infestation",
 		"price": 2500,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "manhunterpack",
 		"price": 1500,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "predators",
@@ -273,12 +268,12 @@
 	{
 		"abr": "randomdisease",
 		"price": 1000,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "disease",
 		"price": 1000,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "reviveanypawn",
@@ -297,23 +292,23 @@
 	},
 	{
 		"abr": "trait",
-		"price": 3500,
+		"price": 2500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removetrait",
-		"price": 5500,
+		"price": 3500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "genderswap",
-		"price": 600,
+		"price": 50,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "prisoner",
-		"price": 800,
-		"karmatype": "Good"
+		"price": 700,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "visitcolony",
@@ -341,5 +336,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 68
+	"total": 67
 }
